@@ -1,8 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/74013392?v=4" width="40px">
+<img src="https://avatars.githubusercontent.com/u/74013392?v=4" width="600px">
 
 # Привет, меня зовут Павел! 
-
----
 
 ### :man_technologist: Обо мне:
 
@@ -10,9 +8,9 @@
 Занимаюсь адаптивной версткой, люблю сложные проекты, после решения которых чувствуешь, что стал опытнее.
 Делаю верстки макетов из figma psd, владею photoshop.
 
-- :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
+- :telescope: Обучался на курсах "Университет 20.35, Веб-дизайн и разработка веб-приложений"
 
-- :seedling: Обязательно вернусь в Школу 21 и попаду на основное обучение.
+- :seedling: Развиваюсь через написание pet-project
 
 - :zap: Хочу освоить новую проффесию и найти работу.
 
@@ -42,9 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="filezilla" alt="filezilla" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialui" alt="materialui" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -54,7 +52,7 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://cms-assets.tutsplus.com/uploads/users/780/posts/39427/image-upload/68747470733a2f2f6769746875622e7375726d6f6e2e6d652f696d616765732f636f6d6d6f6e2f7377697065722d6c6f676f2e737667.svg" title="swiper" alt="swiper" width="40" height="40"/>&nbsp;
-  <img src="https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png" title="figma" alt="figma" width="30" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="60" height="40"/>&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   
