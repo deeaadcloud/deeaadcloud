@@ -1,4 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/74013392?v=4" width="600px">
 
 # Привет, меня зовут Павел! 
 
