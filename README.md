@@ -3,9 +3,9 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. На данный момент развиваюсь в сфере программирования, пишу на HTML, CSS, JS, React.
+Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. На данный момент развиваюсь в сфере программирования, пишу на HTML, CSS, JS, React, PHP.
 Занимаюсь адаптивной версткой, люблю сложные проекты, после решения которых чувствуешь, что стал опытнее.
-Делаю верстки макетов из figma psd, владею photoshop.
+Делаю верстки макетов из figma psd, занимаюсь натяжкой сайтов на цмс, пишу React приложения.
 
 - :telescope: Обучался на курсах "Университет 20.35, Веб-дизайн и разработка веб-приложений"
 
